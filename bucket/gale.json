@@ -9,11 +9,11 @@
             "hash": "F6DD2864BC08F25A6B78C7673644B5A8A7F20052F86989EA94A56B0E56CBED29"
         }
     },
-    "bin": "gale.exe",
+    "bin": "PFiles\\Gale\\gale.exe",
     "shortcuts": [
         [
-            "Gale",
-            "gale.exe"
+            "PFiles\\Gale\\gale.exe",
+            "Gale"
         ]
     ],
     "checkver": "github",
