@@ -13,7 +13,7 @@
     "shortcuts": [
         [
             "Gale",
-            "gale.exe"
+            "Gale/gale.exe"
         ]
     ],
     "checkver": "github",
