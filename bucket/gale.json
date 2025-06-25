@@ -1,0 +1,27 @@
+{
+    "version": "1.8.3",
+    "description": "A lightweight mod manager for Thunderstore",
+    "homepage": "https://github.com/Kesomannen/gale",
+    "license": "GPL-3.0-only",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Kesomannen/gale/releases/download/1.8.3/Gale_1.8.3_x64_en-US.msi",
+            "hash": "F6DD2864BC08F25A6B78C7673644B5A8A7F20052F86989EA94A56B0E56CBED29"
+        }
+    },
+    "bin": "gale.exe",
+    "shortcuts": [
+        [
+            "Gale",
+            "gale.exe"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/Kesomannen/gale/releases/download/1.8.3/Gale_$version_x64_en-US.msi"
+            }
+        }
+    }
+}
