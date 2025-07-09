@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/Kesomannen/gale/releases/download/1.8.5/Gale_1.8.5_x64_en-US.msi",
-            "hash": "F6DD2864BC08F25A6B78C7673644B5A8A7F20052F86989EA94A56B0E56CBED29"
+            "hash": "45fc66cf015c9abd912114ef0f09e572f967d75f752a3d9650b34be39c920d31"
         }
     },
     "bin": "PFiles\\Gale\\gale.exe",
